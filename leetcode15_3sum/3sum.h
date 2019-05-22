@@ -64,6 +64,7 @@ public:
 	}
 
 	void print(vector<vector<int>> ret) {
+
 		for (vector<vector<int>>::iterator it = ret.begin(); it != ret.end(); it++) {
 			for (int i = 0; i<(*it).size(); i++) {
 				cout << (*it)[i] << " ";
