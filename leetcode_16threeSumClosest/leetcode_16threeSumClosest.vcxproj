@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{BEBFB634-09F5-4873-A2E3-1C98AE7C7350}</ProjectGuid>
+    <ProjectGuid>{7F819D8B-D67E-44DF-8964-27BAFD435F1C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>LeetCode12</RootNamespace>
+    <RootNamespace>leetcode16threeSumClosest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>LeetCode_12intToRoman</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,10 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="intToRoman.h" />
+    <ClInclude Include="threeSumClosest.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="intToRoman.cpp" />
+    <ClCompile Include="threeSumClosest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

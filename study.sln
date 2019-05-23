@@ -9,9 +9,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode17_LetterCombinatio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_8_atoi", "leetcode_8\string.vcxproj", "{5E09045F-FCDB-45E5-B0E7-B57BEFDAF4B6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_11", "leetcode_11\leetcode_11.vcxproj", "{D25A675D-F593-4958-8C2E-01A500CE501C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_11maxArea", "leetcode_11\leetcode_11.vcxproj", "{D25A675D-F593-4958-8C2E-01A500CE501C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_12", "LeetCode_12\LeetCode_12.vcxproj", "{BEBFB634-09F5-4873-A2E3-1C98AE7C7350}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_12intToRoman", "LeetCode_12\LeetCode_12.vcxproj", "{BEBFB634-09F5-4873-A2E3-1C98AE7C7350}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_16threeSumClosest", "leetcode_16threeSumClosest\leetcode_16threeSumClosest.vcxproj", "{7F819D8B-D67E-44DF-8964-27BAFD435F1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{BEBFB634-09F5-4873-A2E3-1C98AE7C7350}.Release|x64.Build.0 = Release|x64
 		{BEBFB634-09F5-4873-A2E3-1C98AE7C7350}.Release|x86.ActiveCfg = Release|Win32
 		{BEBFB634-09F5-4873-A2E3-1C98AE7C7350}.Release|x86.Build.0 = Release|Win32
+		{7F819D8B-D67E-44DF-8964-27BAFD435F1C}.Debug|x64.ActiveCfg = Debug|x64
+		{7F819D8B-D67E-44DF-8964-27BAFD435F1C}.Debug|x64.Build.0 = Debug|x64
+		{7F819D8B-D67E-44DF-8964-27BAFD435F1C}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F819D8B-D67E-44DF-8964-27BAFD435F1C}.Debug|x86.Build.0 = Debug|Win32
+		{7F819D8B-D67E-44DF-8964-27BAFD435F1C}.Release|x64.ActiveCfg = Release|x64
+		{7F819D8B-D67E-44DF-8964-27BAFD435F1C}.Release|x64.Build.0 = Release|x64
+		{7F819D8B-D67E-44DF-8964-27BAFD435F1C}.Release|x86.ActiveCfg = Release|Win32
+		{7F819D8B-D67E-44DF-8964-27BAFD435F1C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
